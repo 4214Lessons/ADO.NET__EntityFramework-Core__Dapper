@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_LinqToSQL", "Lesson
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_Practise", "Lesson6_Practise\Lesson6_Practise.csproj", "{48C43975-88A2-4AC5-8821-CE56EBB446E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_EntityFrameworkCore_CodeFirst", "Lesson7_EntityFrameworkCore_CodeFirst\Lesson7_EntityFrameworkCore_CodeFirst.csproj", "{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{48C43975-88A2-4AC5-8821-CE56EBB446E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48C43975-88A2-4AC5-8821-CE56EBB446E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48C43975-88A2-4AC5-8821-CE56EBB446E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
