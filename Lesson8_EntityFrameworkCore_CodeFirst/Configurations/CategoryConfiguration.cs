@@ -12,5 +12,8 @@ public class CategoryConfiguration : IEntityTypeConfiguration<Category>
                  .IsRequired()
                  .HasMaxLength(30)
                  .HasDefaultValue("Default");
+
+
+        builder.HasQueryFilter(x => x.CreatedDate < new DateTime(2000, 1, 1));
     }
 }

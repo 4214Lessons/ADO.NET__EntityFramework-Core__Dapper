@@ -33,7 +33,10 @@ Console.WriteLine($"{p.Id} {p.Name} {p.UnitPrice} {p.UnitInStock}");
 
 
 
-//context.Categories.IgnoreQueryFilters().Where(x => x.Id > 4);
+context.Categories.Where(x => x.Id > 4);
+context.Categories.Where(x => x.Id > 4);
+context.Categories.Where(x => x.Id > 4);
+context.Categories.IgnoreQueryFilters().Where(x => x.Id > 4);
 
 
 
