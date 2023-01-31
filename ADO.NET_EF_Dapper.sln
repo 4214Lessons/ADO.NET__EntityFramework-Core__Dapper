@@ -13,15 +13,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADONETLesson4_AsyncAndAwait
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ADONETLesson4_ClassicAsynchronous", "ADONETLesson4_ClassicAsynchronous\ADONETLesson4_ClassicAsynchronous.csproj", "{2EE4C0D6-E069-4FA1-A66D-DD248C61F820}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_LinqToObjects", "Lesson5_LinqToObjects\Lesson5_LinqToObjects.csproj", "{AF016363-77E8-4103-BC20-B2123A0E203B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5_LinqToObjects", "Lesson5_LinqToObjects\Lesson5_LinqToObjects.csproj", "{AF016363-77E8-4103-BC20-B2123A0E203B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_LinqToXML", "Lesson5_LinqToXML\Lesson5_LinqToXML.csproj", "{9908F0CD-DB13-480B-896D-1581FC4A1C15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson5_LinqToXML", "Lesson5_LinqToXML\Lesson5_LinqToXML.csproj", "{9908F0CD-DB13-480B-896D-1581FC4A1C15}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson5_LinqToSQL", "Lesson5_LinqToSQL\Lesson5_LinqToSQL.csproj", "{70D789A1-38AC-4880-B348-7BC64F6631D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson6_Practise", "Lesson6_Practise\Lesson6_Practise.csproj", "{48C43975-88A2-4AC5-8821-CE56EBB446E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson6_Practise", "Lesson6_Practise\Lesson6_Practise.csproj", "{48C43975-88A2-4AC5-8821-CE56EBB446E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson7_EntityFrameworkCore_CodeFirst", "Lesson7_EntityFrameworkCore_CodeFirst\Lesson7_EntityFrameworkCore_CodeFirst.csproj", "{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson7_EntityFrameworkCore_CodeFirst", "Lesson7_EntityFrameworkCore_CodeFirst\Lesson7_EntityFrameworkCore_CodeFirst.csproj", "{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson8_EntityFrameworkCore_CodeFirst", "Lesson8_EntityFrameworkCore_CodeFirst\Lesson8_EntityFrameworkCore_CodeFirst.csproj", "{3E71D885-4A7F-4766-84D0-8D1720C40DF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0AC2AAC0-C2A5-4462-B7B8-60D8F8557DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E71D885-4A7F-4766-84D0-8D1720C40DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E71D885-4A7F-4766-84D0-8D1720C40DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E71D885-4A7F-4766-84D0-8D1720C40DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E71D885-4A7F-4766-84D0-8D1720C40DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
